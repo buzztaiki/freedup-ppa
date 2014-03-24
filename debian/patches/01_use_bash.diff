@@ -1,0 +1,12 @@
+Index: freedup-1.6.2/Makefile.Linux
+===================================================================
+--- freedup-1.6.2.orig/Makefile.Linux	2014-03-24 19:30:40.690312517 +0000
++++ freedup-1.6.2/Makefile.Linux	2014-03-24 19:45:33.490300032 +0000
+@@ -21,6 +21,7 @@
+ #
+ # Linux specific definitions
+ #
++SHELL=/bin/bash
+ FREEDUPEXE=./freedup
+ SHATESTEXE=./sha1test
+ ECHOE=echo -e
