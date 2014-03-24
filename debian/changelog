@@ -1,5 +1,5 @@
-freedup (1.6-1) unstable; urgency=low
+freedup (1.6.2) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
  -- Taiki Sugawara <buzz.taiki@gmail.com>  Mon, 24 Mar 2014 18:39:36 +0000
